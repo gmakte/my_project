@@ -1,1 +1,1 @@
-"email=Your email" 
+email = "Your email"
