@@ -1,1 +1,2 @@
-'from config import email\nprint(f"My email is: {email}")' 
+from config import email
+print(f"My email is: {email}")
